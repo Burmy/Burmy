@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Burmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&hide=stars)](https://github.com/Burmy/github-readme-stats)
+[![Burmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmy&show_icons=true&theme=radical&hide=stars)](https://github.com/Burmy/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=radical)](https://github.com/Burmy/github-readme-stats)
 
