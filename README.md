@@ -4,7 +4,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Burmy&show_icons=true&theme=algolia&hide=stars,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=algolia" />
