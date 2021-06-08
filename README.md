@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-[![Burmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmy&show_icons=true&theme=radical&hide=stars)](https://github.com/Burmy/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=radical)](https://github.com/Burmy/github-readme-stats)
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Burmy&theme=radical&title=Commit,Joined2020&margin-w=15)](https://github.com/Burmy/github-profile-trophy)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Burmy&show_icons=true&theme=midnight-purple&hide=stars,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=midnight-purple" />
+</div>
+
+[![Burmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmy&show_icons=true&theme=midnight-purple&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
