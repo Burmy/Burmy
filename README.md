@@ -2,6 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmy)](https://github.com/Burmy/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy)](https://github.com/Burmy/github-readme-stats)
+
+
 <!--
 **Burmy/Burmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
