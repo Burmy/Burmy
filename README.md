@@ -13,9 +13,10 @@ A Computer Science student at San Francisco State University who is passionate a
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Burmy&show_icons=true&theme=algolia&hide=stars,contribs" />
+  <img margin-bottom="30px" height="170px" src="https://github-readme-stats.vercel.app/api?username=Burmy&show_icons=true&theme=algolia&hide=stars,contribs" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=algolia" />
 </a>
 
