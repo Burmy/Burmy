@@ -11,7 +11,7 @@ A Computer Science student at San Francisco State University who is passionate a
 </a>
 
 ---
-[![Burmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmy&count_private=true&show_icons=true&theme=default&hide=stars,contribs&bg_color=0D1117&text_color=C9D1D9&border_color=30363D&title_color=58A6FF&icon_color=58A6FF)](https://github.com/anuraghazra/github-readme-stats)
+[![Burmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burmy&count_private=true&theme=default&show_icons=true&hide=stars,contribs&bg_color=0D1117&text_color=C9D1D9&border_color=30363D&title_color=58A6FF&icon_color=58A6FF)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Burmy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Burmy&layout=compact&theme=default&text_color=C9D1D9&bg_color=0D1117&icon_color=58A6FF&border_color=30363D&title_color=58A6FF)](https://github.com/anuraghazra/github-readme-stats)
 
