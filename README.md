@@ -1,7 +1,7 @@
 ### Hi there 🙋‍♂️
 ### My name is Anmol Burmy 
 
-A Computer Science student at San Francisco State University who is passionate about becoming a Front-end Developer.I love creating things on the web and be very detailed with them. I aspire toward a career that will allow me to channel my creativity through crafting beautiful software and engaging experiences.
+A Computer Science student at San Francisco State University who is passionate about becoming a Front-end Developer. I love creating things on the web and be very detailed with them. I aspire toward a career that will allow me to channel my creativity through crafting beautiful software and engaging experiences.
 
 <a href="https://www.linkedin.com/in/burmy/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
