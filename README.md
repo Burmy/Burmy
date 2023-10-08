@@ -1,7 +1,7 @@
 ### Hi there 🙋‍♂️
 ### My name is Anmol Burmy 
 
-A Computer Science graduate from San Francisco State University who is passionate about becoming a Front-end Developer. I love creating things on the web and be very detailed with them. I aspire toward a career that will allow me to channel my creativity through crafting beautiful software and engaging experiences.
+I'm a dedicated Front-End Developer with a passion for creating seamless, visually appealing and user-centric web experiences. With a strong foundation in web technologies and a keen eye for design, I specialize in bringing ideas to life through clean, efficient and accessible code.
 
 <a href="https://www.linkedin.com/in/burmy/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
